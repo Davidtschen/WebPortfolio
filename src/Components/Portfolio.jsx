@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Algorithm Visualizer 🎯",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Interactive web application built with React to visualize sorting and searching algorithms. Helps students understand algorithm concepts.",
+    url: "https://github.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Student Task Manager",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Full-stack web application for managing assignments and deadlines. Built with JavaScript, Node.js, and MongoDB.",
+    url: "https://github.com/",
   },
   {
-    title: "My Resume Site",
+    title: "Python Data Analysis Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Data analysis and visualization project using Python, Pandas, and Matplotlib to analyze student performance trends.",
+    url: "https://github.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Personal Portfolio Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This portfolio website built with React and deployed with GitHub Pages to showcase my projects and skills.",
+    url: "https://github.com/",
   },
 ];
 
